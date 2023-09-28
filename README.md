@@ -1,5 +1,13 @@
 <h1 align="center">Hi there, I'm TEAbag2711 👋</h1> 
 <h3 align="center"<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E8B57&vCenter=true&width=435&lines=Computer+science+student+from+Russia" alt="Typing SVG" /></a></h3>
+<h4>Я умею работать с такими языками, как:</h4>
+<li>HTML/CSS</li>
+<li>Java Script</li>
+<li>PHP</li>
+<h4>ПРОЕКТЫ:</h4>
+В прошлом году я делал небольшой проект (часы с секундомером) с помощью Java Script, HTML и CSS.
+Сейчас я учусь в <i>Кванториуме</i> на web площадке.
+
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
