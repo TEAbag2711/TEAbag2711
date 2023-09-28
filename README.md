@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm TEAbag2711 👋</h1> 
 <h3 align="center"<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E8B57&vCenter=true&width=435&lines=Computer+science+student+from+Russia" alt="Typing SVG" /></a></h3>
 <h4>Я умею работать с такими языками, как:</h4>
-<li>HTML/CSS</li>
+<li>HTML/CSS<img src="https://github.com/TEAbag2711/TEAbag2711/assets/144696080/e2179e34-246e-4df0-971b-37cc5fb69ff7"></li>
 <li>Java Script</li>
 <li>PHP</li>
 <h4>ПРОЕКТЫ:</h4>
